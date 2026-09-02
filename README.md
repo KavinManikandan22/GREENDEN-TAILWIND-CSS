@@ -5,7 +5,7 @@
 A modern, responsive website for **Greenden**, designed with **Tailwind CSS**.  
 This project includes a landing page, product listing page, and contact form — all styled for clean UI and mobile‑first performance.
 
----
+
 
 ## 🚀 Features
 - **Landing Page (`index.html`)**
@@ -29,14 +29,13 @@ This project includes a landing page, product listing page, and contact form —
   - Responsive navbar toggle
   - Footer with contact info
 
----
+
 
 ## 🛠️ Tech Stack
 - **HTML5**
 - **Tailwind CSS v2.2.19**
 - **JavaScript (for interactivity)**
 
----
 
 ## 📂 Project Structure
 greenden/
@@ -46,7 +45,7 @@ greenden/
 ├── /assets/images    # Project images
 └── README.md         # Documentation
 
----
+
 
 ##📌 Future Improvements
 **Add dark mode toggle**
@@ -55,7 +54,7 @@ greenden/
 3.Add cart functionality
 4.Connect contact form to backend or Formspree/Netlify for submissions
 
----
+
 
 ## 🙏 Thank You
 Thank you for visiting my repository and exploring the **Greenden Project**.  
